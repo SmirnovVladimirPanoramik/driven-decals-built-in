@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 0}
   m_Name: Unlit Grid
   m_EditorClassIdentifier: SamDriver.DrivenDecals.Runtime:SamDriver.Decal:DecalAsset
-  Material: {fileID: 0}
+  Material: {fileID: 2100000, guid: 3a3413b0bd8175941a1fb9c256b3596b, type: 2}
   uMin: 0
   vMin: 0
   uMax: 1

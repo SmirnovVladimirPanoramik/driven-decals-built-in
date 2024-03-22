@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 0}
   m_Name: Grid
   m_EditorClassIdentifier: SamDriver.DrivenDecals.Runtime:SamDriver.Decal:DecalAsset
-  Material: {fileID: 0}
+  Material: {fileID: 2100000, guid: 20159b3cdda77ae4198a085a1fab3a51, type: 2}
   uMin: 0
   vMin: 0
   uMax: 1

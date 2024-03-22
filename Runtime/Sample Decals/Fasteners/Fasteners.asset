@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 0}
   m_Name: Fasteners
   m_EditorClassIdentifier: SamDriver.DrivenDecals.Runtime:SamDriver.Decal:DecalAsset
-  Material: {fileID: 0}
+  Material: {fileID: 2100000, guid: 41cdeb38201dd97469527bde6ed67f4b, type: 2}
   uMin: 0
   vMin: 0
   uMax: 1
