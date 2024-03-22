@@ -9,10 +9,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8cd7be7c3532c974c919d1b2a4cf439b, type: 3}
+  m_Script: {fileID: 0}
   m_Name: Grid
-  m_EditorClassIdentifier: 
-  Material: {fileID: 2100000, guid: 20159b3cdda77ae4198a085a1fab3a51, type: 2}
+  m_EditorClassIdentifier: SamDriver.DrivenDecals.Runtime:SamDriver.Decal:DecalAsset
+  Material: {fileID: 0}
   uMin: 0
   vMin: 0
   uMax: 1

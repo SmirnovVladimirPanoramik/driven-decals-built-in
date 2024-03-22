@@ -21,7 +21,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: EditorDecalThumbnail
-  m_Shader: {fileID: -6465566751694194690, guid: 729954eff5261fb42b8edce55b0080ba, type: 3}
+  m_Shader: {fileID: -6465566751694194690, guid: fcf7d6a726eb2f149818c258f540cd0b, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
@@ -104,7 +104,7 @@ Material:
     - _ZWrite: 1
     m_Colors:
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
-    - _Bounds: {r: 0.021153847, g: 0.3596154, b: 0.4, a: 0.85384613}
+    - _Bounds: {r: 0.040948275, g: 0.62068963, b: 0.6508621, a: 0.89008623}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _ColourForAlpha: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}

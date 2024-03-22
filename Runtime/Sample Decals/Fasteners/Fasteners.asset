@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 0}
-  m_Name: Unlit Grid
+  m_Name: Fasteners
   m_EditorClassIdentifier: SamDriver.DrivenDecals.Runtime:SamDriver.Decal:DecalAsset
   Material: {fileID: 0}
   uMin: 0
